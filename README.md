@@ -76,22 +76,6 @@ https://raw.githubusercontent.com/nasirtulore-ui/icon/main/tabler/svg/home.svg
 
 Most stroke icons use `currentColor`, so CSS color changes them.
 
-## Packs
-
-25001 icons.
-
-| Set | Folder | License | Icons |
-| --- | --- | --- | --- |
-| Tabler Icons | `tabler` | MIT | 5166 |
-| Lucide | `lucide` | ISC | 1857 |
-| Phosphor Icons | `phosphor` | MIT | 1512 |
-| Heroicons | `heroicons` | MIT | 324 |
-| Bootstrap Icons | `bootstrap` | MIT | 1409 |
-| Fluent System Icons | `fluent` | MIT | 2919 |
-| Material Design Icons | `material` | Apache-2.0 | 2209 |
-| Simple Icons | `simple-icons` | CC0-1.0 | 3464 |
-| Hugeicons | `hugeicons` | MIT | 6141 |
-
 ## Identity
 
 ```json
