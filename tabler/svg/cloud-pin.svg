@@ -1,9 +1,3 @@
-<!--
-category: Weather
-tags: [location, map, place, position, marker, point, spot, navigate, geotag, fix]
-version: "2.10"
-unicode: "f856"
--->
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="24"

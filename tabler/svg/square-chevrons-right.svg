@@ -1,9 +1,3 @@
-<!--
-tags: [shape, direction, east, square, chevrons, right, navigation, flow, rectangular, movement]
-category: Arrows
-version: "1.118"
-unicode: "f64d"
--->
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="24"

@@ -1,9 +1,3 @@
-<!--
-tags: [direction, east, west, arrow, autofit, content, pointer, navigation, flow, navigate]
-category: Arrows
-version: "1.42"
-unicode: "ef31"
--->
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="24"

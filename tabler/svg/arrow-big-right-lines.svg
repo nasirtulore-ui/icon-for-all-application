@@ -1,9 +1,3 @@
-<!--
-tags: [direction, east, west, arrow, big, right, lines, pointer, navigation, flow]
-category: Arrows
-version: "1.52"
-unicode: "efed"
--->
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="24"
