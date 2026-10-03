@@ -5,8 +5,7 @@
     "brand": "nasmedia",
     "id": "phosphor",
     "title": "Phosphor Icons",
-    "license": "MIT",
-    "source": "https://github.com/phosphor-icons/core"
+    "license": "MIT"
   },
   "acorn": {
     "name": "Acorn",

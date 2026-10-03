@@ -5,8 +5,7 @@
     "brand": "nasmedia",
     "id": "material",
     "title": "Material Design Icons",
-    "license": "Apache-2.0",
-    "source": "https://github.com/google/material-design-icons"
+    "license": "Apache-2.0"
   },
   "10k": {
     "name": "10k",

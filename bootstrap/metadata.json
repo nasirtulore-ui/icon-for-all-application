@@ -5,8 +5,7 @@
     "brand": "nasmedia",
     "id": "bootstrap",
     "title": "Bootstrap Icons",
-    "license": "MIT",
-    "source": "https://github.com/twbs/icons"
+    "license": "MIT"
   },
   "0-circle": {
     "name": "0 circle",

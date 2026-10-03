@@ -8,7 +8,6 @@
       "id": "tabler",
       "title": "Tabler Icons",
       "license": "MIT",
-      "source": "https://github.com/tabler/tabler-icons",
       "icons": 5166,
       "path": "tabler"
     },
@@ -16,7 +15,6 @@
       "id": "lucide",
       "title": "Lucide",
       "license": "ISC",
-      "source": "https://github.com/lucide-icons/lucide",
       "icons": 1857,
       "path": "lucide"
     },
@@ -24,7 +22,6 @@
       "id": "phosphor",
       "title": "Phosphor Icons",
       "license": "MIT",
-      "source": "https://github.com/phosphor-icons/core",
       "icons": 1512,
       "path": "phosphor"
     },
@@ -32,7 +29,6 @@
       "id": "heroicons",
       "title": "Heroicons",
       "license": "MIT",
-      "source": "https://github.com/tailwindlabs/heroicons",
       "icons": 324,
       "path": "heroicons"
     },
@@ -40,7 +36,6 @@
       "id": "bootstrap",
       "title": "Bootstrap Icons",
       "license": "MIT",
-      "source": "https://github.com/twbs/icons",
       "icons": 1409,
       "path": "bootstrap"
     },
@@ -48,7 +43,6 @@
       "id": "fluent",
       "title": "Fluent System Icons",
       "license": "MIT",
-      "source": "https://github.com/microsoft/fluentui-system-icons",
       "icons": 2919,
       "path": "fluent"
     },
@@ -56,7 +50,6 @@
       "id": "material",
       "title": "Material Design Icons",
       "license": "Apache-2.0",
-      "source": "https://github.com/google/material-design-icons",
       "icons": 2209,
       "path": "material"
     },
@@ -64,7 +57,6 @@
       "id": "simple-icons",
       "title": "Simple Icons",
       "license": "CC0-1.0",
-      "source": "https://github.com/simple-icons/simple-icons",
       "icons": 3464,
       "path": "simple-icons"
     },
@@ -72,7 +64,6 @@
       "id": "hugeicons",
       "title": "Hugeicons",
       "license": "MIT",
-      "source": "https://github.com/hugeicons/hugeicons",
       "icons": 6141,
       "path": "hugeicons"
     }

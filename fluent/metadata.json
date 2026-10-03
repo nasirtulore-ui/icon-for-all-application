@@ -5,8 +5,7 @@
     "brand": "nasmedia",
     "id": "fluent",
     "title": "Fluent System Icons",
-    "license": "MIT",
-    "source": "https://github.com/microsoft/fluentui-system-icons"
+    "license": "MIT"
   },
   "access-time": {
     "name": "Access Time",

@@ -5,8 +5,7 @@
     "brand": "nasmedia",
     "id": "heroicons",
     "title": "Heroicons",
-    "license": "MIT",
-    "source": "https://github.com/tailwindlabs/heroicons"
+    "license": "MIT"
   },
   "academic-cap": {
     "name": "Academic Cap",
